@@ -11,7 +11,7 @@
 			<p>
 				<LI><A HREF="https://www.instagram.com/lyj_970905/">這是我的IG</A>
 					<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslPyHK3QwsyyJxjeBSMzsi6KonGW1YcOWOA&s" align=right height=500>
-					<LI><A HREF="file:///C:/Users/USER/Desktop/%E9%9B%9C%E7%89%A9/%E5%AD%B8%E7%A7%91/%E5%80%8B%E4%BA%BA/%E5%80%8B%E4%BA%BA%E4%BD%9C%E6%A5%AD/20241211-1.html">課表
+					<LI><A HREF="111.png">課表
 						</P>
 						</MENU>
 </body>
